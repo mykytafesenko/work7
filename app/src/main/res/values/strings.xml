@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabWork7</string>
+    <string name="menu_erase">Eraser</string>
+    <string name="menu_new">New picture (clear)</string>
+    <string name="menu_save">Save picture</string>
+    <string name="pic_saved">Saved</string>
+</resources>
